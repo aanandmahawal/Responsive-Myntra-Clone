@@ -9,8 +9,11 @@
 display: flex;
  
     margin-top:0.125vh;
+  
+ 
    align-items: center;
-    justify-content:space-between;
+
+   justify-content:space-between;
 
 }
 a{
@@ -21,7 +24,7 @@ a{
 #logo {
     background-image: url("logo.png");
 height:3.5vw;
-   width: 4vw;
+   width: 3.2vw;
  margin-top:1vh;
    background-size:contain;
    background-repeat:no-repeat;
@@ -45,13 +48,13 @@ height:3.5vw;
   align-items:center;
    height:100%;
  width:25vw;;
-    font-size:0.9rem;
+    font-size:1rem;
     border: none;
 }
 
 #searchicon {
     width: 4vw;
-   height:4vw;
+   height:3.2vw;
  margin-right:0.1px;
  
   padding-bottom:0.5vw;

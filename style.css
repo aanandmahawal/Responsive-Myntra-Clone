@@ -23,7 +23,7 @@ a{
 }
 #logo {
     background-image: url("logo.png");
-height:3.5vw;
+height:3vw;
    width: 3.2vw;
  margin-top:1vh;
    background-size:contain;
@@ -54,7 +54,7 @@ height:3.5vw;
 
 #searchicon {
     width: 4vw;
-   height:3.2vw;
+   height:2.9vw;
  margin-right:0.1px;
  
   padding-bottom:0.5vw;

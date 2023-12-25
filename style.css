@@ -9,11 +9,8 @@
 display: flex;
  
     margin-top:0.125vh;
-  
- 
    align-items: center;
-
-   justify-content:space-between;
+    justify-content:space-between;
 
 }
 a{
@@ -37,26 +34,24 @@ height:3.5vw;
     display:flex;
     justify-content: flex-end;
  width:28vw;
-    border-radius: 3px;
+    border: 3px solid black;
    
 
 
 }
 
-
 #searchinput {
     color:black;
-  margin-top:1vw;
   align-items:center;
-   
-    font-size:1.1rem;
+   height:100%;
+ width:25vw;;
+    font-size:0.9rem;
     border: none;
 }
 
 #searchicon {
     width: 4vw;
-   height:3.5vw;
- margin-left:2vw;
+   height:4vw;
  margin-right:0.1px;
  
   padding-bottom:0.5vw;
